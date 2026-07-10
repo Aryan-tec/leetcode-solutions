@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0485-max-consecutive-ones](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
