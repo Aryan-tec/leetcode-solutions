@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0046-permutations) |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-tec/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
